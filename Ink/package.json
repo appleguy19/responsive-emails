@@ -1,0 +1,33 @@
+{
+  "name": "Ink",
+  "version": "1.0.5",
+  "description": "Ink is a responsive email framework for making emails that look great on any device.",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.33",
+    "grunt-shell": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zurb/ink.git"
+  },
+  "keywords": [
+    "ink",
+    "responsive",
+    "email",
+    "css",
+    "framework"
+  ],
+  "author": "ZURB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zurb/ink/issues"
+  }
+}
